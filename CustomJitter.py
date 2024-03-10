@@ -66,5 +66,5 @@ if __name__ == '__main__':
     pylab.scatter(resx,resy,marker = '.',c = timeseries)
     pylab.xlabel('Angle along x in degrees')
     pylab.ylabel('Angle along y in degrees')
-    pylab.title('Angular jitter as experienced by the satellite')
+    pylab.title('Angular jitter experienced by the satellite')
     pylab.show()
